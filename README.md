@@ -1,3 +1,3 @@
-# OCR_HANDWRITING
+# OCR For English HANDWRITING
 
 Character recogntion using CNN paired with an openCV methods used for segmentation of handwritten English words 
